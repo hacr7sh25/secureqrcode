@@ -2,3 +2,4 @@ Flask
 gunicorn
 Pillow
 ImageHash
+flask_cors
